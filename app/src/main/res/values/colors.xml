@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="Red">#F81707</color>
+    <color name="bai">#ffffff</color>
+    <color name="lan">#00BCD4</color>
+    <color name="hui">#746E6E</color>
+    <color name="hui_view">#D5C5C0C0</color>
+    <color name="orange">#FF9800</color>
+    <color name="gray">#A4797271</color>
+    <color name="lv">#F70BFCB0</color>
+    <color name="black">#0A0A0A</color>
+    <color name="my_hui">#3F3939</color>
+    <color name="Red_s">#C50F02</color>
+</resources>

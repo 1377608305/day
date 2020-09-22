@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.mylibrary">
+
+    <intent-filter>
+        <action android:name="imagepreview" />
+
+        <category android:name="android.intent.category.DEFAULT" />
+    </intent-filter>
+
+    <application>
+        <activity android:name=".MainActivity"></activity>
+    </application>
+
+</manifest>
